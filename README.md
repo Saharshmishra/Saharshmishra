@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saharsh Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://saharmishra.github.io/Portfolio](https://saharmishra.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [https://saharshmishra.github.io/Portfolio](https://saharmishra.github.io/Portfolio)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,JQUERY AND BOOTSTRAP**
 
